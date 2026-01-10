@@ -1,4 +1,5 @@
 Kasir Kelompok 4 TI.23.C7
+
 Dibuat menggunakan Visual Basic
 
 Fitur :
@@ -14,5 +15,5 @@ Cara Menjalankan :
 4. klik start di visual studio
 
 Akun Login :
-Username : admin
-Password : admin
+* **Username:** admin
+* **Password:** admin
