@@ -4,3 +4,6 @@
 
 /src/obj
 /.vs
+/src/.vs/kasirv1
+/src/bin/Debug
+/src/packages
